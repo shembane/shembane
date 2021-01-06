@@ -4,6 +4,6 @@
 
 - 😄 Pronouns: He/Him
 
-- 💬 Contact me: ShemBane </>04020
+- 💬 Contact me: ShemBane#0420
 
 ![ShemBane's github stats](https://github-readme-stats.vercel.app/api?username=shembane&hide=[])
