@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shembane&label=Profile%20views&color=0e75b6&style=flat" alt="shembane" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shembane" alt="shembane" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shembane" target="blank"><img src="https://img.shields.io/twitter/follow/shembane?logo=twitter&style=for-the-badge" alt="shembane" /></a> </p>
 
 - 🔭 I’m currently working on [Milk inside a bag of milk](https://github.com/shembane/milkinsideabagofmilk)
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **Discord: ShemBaneTheRaccoon#0420, Twitter: @ShemBane**
+- 📫 How to reach me **Discord: ShemBaneTheRaccoon#0420 & Twitter: @ShemBane**
 
 - ⚡ Fun fact **Milk inside a bag of milk**
 
